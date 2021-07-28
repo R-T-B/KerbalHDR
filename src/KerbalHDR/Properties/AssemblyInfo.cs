@@ -10,6 +10,4 @@ using KerbalHDR.RuntimeUtility;
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
 [assembly: KSPAssembly("KerbalHDR", 1, 0)]
-[assembly: KSPAssemblyDependency("KerbalHDR.Parser", 1, 0)]
-[assembly: KSPAssemblyDependency("ModularFlightIntegrator", 1, 0)]
 [assembly: AssemblyVersion("1.0.0")]

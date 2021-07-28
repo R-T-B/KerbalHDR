@@ -37,7 +37,6 @@ using KSP.UI.Screens;
 using KSP.UI.Screens.Mapview;
 using KSP.UI.Screens.Mapview.MapContextMenuOptions;
 using KSP.UI.Screens.Settings.Controls;
-using ModularFI;
 using UnityEngine;
 using UnityEngine.UI;
 using KSP.Localization;
